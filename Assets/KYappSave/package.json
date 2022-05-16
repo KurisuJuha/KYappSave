@@ -1,0 +1,8 @@
+{
+  "author": "KYapp",
+  "name": "jp.kyapp.kyappsave",
+  "version": "1.0.0",
+  "displayName": "KYappSave",
+  "description": "いい感じにセーブしてくれるパッケージです。",
+  "repository": "github:kukiyomenaisapp/KYappSave"
+}
